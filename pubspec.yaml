@@ -1,0 +1,17 @@
+name: flutter_flexible_widget
+description: Provide a easy way to make responsive UI for Flutter Applications in mobile, desktop and web, allow different widget  size for each screen size and device orientation.
+version: 0.0.1
+homepage: https://felipewom.dev/
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
